@@ -5,7 +5,7 @@
 <!-- Monopattino elettrico -->
 
 <p align="center">
-  <img src="code.jpg" width="400" height="150">
+  <img src="mono2.1.jpg" width="300" height="180">
 </p>
 
 <p align="center">
@@ -22,11 +22,10 @@
 
 <h3><p align="center">Disclaimer</p></h3>
 
-`<i>`Ogni azione di replicazione del `<b>`Monopattino `</b>` è sotto la vostra responsabilità. L'uso scorretto di un oggetto come quello documentato può risultare in `<b>`problemi legali `</b>` nei confronti del responsabile. `<b>`I contributori non saranno ritenuti responsabili `</b>` nel caso di un uso scorretto del progetto da parte di un'individuo.
+Ogni azione di replicazione del Monopattino è sotto la vostra responsabilità. L'uso scorretto di un oggetto come quello documentato può risultare in problemi legali nei confronti del responsabile. I contributori non saranno ritenuti responsabilinel caso di un uso scorretto del progetto da parte di un'individuo.
 
-`<b>`Questo progetto può non essere `</b>`. Refer to the laws in your province/country before accessing, using,or in any other way utilizing this in a wrong way.
 
-`<b>`This Project is made for educational purposes only `</b>`. Do not attempt to violate the law `<b>`If this is your intention, then Get the hell out of here `</b>`!
+`<b>`This Project is made for educational purposes only . Do not attempt to violate the law If this is your intention, then Get the hell out of here !
 
 ### Features
 
